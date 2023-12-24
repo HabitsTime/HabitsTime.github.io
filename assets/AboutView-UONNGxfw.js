@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./index-x7DenTwB.js";const a={},c={class:"about"},n=o("h1",null,"This application was built for personal interest by me, Claesen Maties.",-1),r=[n];function _(i,l){return s(),t("div",c,r)}const f=e(a,[["render",_]]);export{f as default};
